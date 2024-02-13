@@ -5,9 +5,6 @@ System Test On
 - OS Ubuntu 18.04
 - VPS KVM
 
-Installasi
-wget https://github.com/bakhtiyarsierad/setup-PPTP-auto-installer/blob/main/install.sh
-
 
 Tambah user Manual
 #nano /etc/ppp/chap-secrets
